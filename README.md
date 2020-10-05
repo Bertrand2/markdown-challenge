@@ -7,6 +7,8 @@
 
 ## I love spiders, scouts and board games.
 
+|Info               |Data                       |
+|:------------------|:--------------------------|
 |Birthday           |29/03                      |
 |Favourite color    |`green`                    |
 |Favourite food     |`chili sin carne`          |
