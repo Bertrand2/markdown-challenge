@@ -18,7 +18,7 @@
 ## Hobbies
 
 * Scouts
-* Board games
+* Board Games
 * Video Games
 * Hiking
 
