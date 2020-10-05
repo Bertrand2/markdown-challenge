@@ -35,4 +35,4 @@ Once, during a scout hike, a dog started to follow us in a village. We thought h
 
 A dog walked with my group for more than 10 kilometers even though he didn't know us.
 
-[<< previous](https://github.com/bastlaf/markdown-challenge/blob/main/README.md) || Bertrand || [next >>]()
+[<< previous](https://github.com/bastlaf/markdown-challenge/blob/main/README.md) || Bertrand || [next >>](https://github.com/Cameliajrk/markdown-challenge/blob/main/README.md)
