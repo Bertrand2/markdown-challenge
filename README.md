@@ -12,8 +12,7 @@
 |Birthday           |29/03                      |
 |Favourite color    |`green`                    |
 |Favourite food     |`chili sin carne`          |
-|Pineapple on pizza |- [x] Hell yes             |
-|                   |- [ ] No                   |
+|Pineapple on pizza |- [x] Hell yes <br>- [ ] No    |
 
 
 ## Hobbies
